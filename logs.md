@@ -1,6 +1,6 @@
 ---
 layout: page
-home-title: Welcome to 이유섭의 blog!
+home-title: Welcome to 이유섭's blog!
 description: Writing, writing, writing ...
 ---
 

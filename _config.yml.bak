@@ -91,6 +91,7 @@ cclicense: true
 # google_analytics: UA-XXXXXXXXX-X
 google_analytics: 
 
+# 아래 것들은 전부 뭔지 모르겠다....
 # Tags
 recommend-tags: true # whether or not display recommend-tags on the sidebar
 recommend-condition-size: 12 # a tag will be recommended if the size of it is more than this value
@@ -107,7 +108,7 @@ kramdown:
   input: GFM
 
 # RSS
-RSS: true
+RSS: false #true
 
 # Permalink
 # See: https://github.com/kaeyleo/jekyll-theme-H2O/issues/35
