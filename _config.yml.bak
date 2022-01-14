@@ -1,0 +1,120 @@
+# Site settings
+title: '이유섭의 블로그'
+description: '이유섭의 블로그'
+keyword: '알고리즘, Algorithm, C++, C, AI'
+url: '' # your host
+
+# when build blog on server, if you don't need baseurl, you should leave this value blank.
+# if you're using GitHub Pages, set baseurl to your blog's .
+# for example, if your site is "kaeyleo.github.io", then this url should leave blank.
+# but if your created a repo named "myblog", and the site is "kaeyleo.github.io/myblog", change baseurl to '/myblog'
+baseurl: ''
+
+# International
+language: ko
+
+# Navigation links
+nav:
+  home: '/'
+  blog: '/blog/index.html'
+  archives: '/archives.html'
+  tags: '/tags.html'
+  RSS: '/feed.xml'
+  logs: '/logs.html'
+
+# Footer
+footer:
+  since: 2022
+
+# Author
+author: '이유섭'
+nickname: 'lys7aves'
+bio: '알고리즘, 인공지능 개발자'
+avatar: '/assets/img/profile.jpg'
+
+# Search
+search: true
+
+# Night mode
+nightMode: false
+
+# 뭘까...?
+# Comments
+comments:
+  disqus: false
+  disqus_url: 'https://liaokeyu.disqus.com/embed.js'
+
+# 뭘까...?
+# MathJax 公式支持 by Ray-Eldath
+mathjax: true
+
+# 뭘까...?
+# Share
+social-share: false #true
+social-share-items: ['wechat', 'weibo', 'douban', 'twitter']
+
+# theme color
+theme-color: 'default'  # pink or default
+
+# Post header background patterns (when the post no cover): circuitBoard, overlappingCircles, food, glamorous, ticTacToe, seaOfClouds
+postPatterns: 'circuitBoard'
+
+# SNS settings
+# url: email, weibo, zhihu, twitter, instagram, juejin, github, douban, facebook, dribble, uicn, jianshu, medium, linkedin
+sns:
+#  google-scholar: 'https://scholar.google.com/citations?user=AUupIooAAAAJ'
+#  researchgate: 'https://www.researchgate.net/profile/Shengzhou-Li'
+#  ORCID: 'https://orcid.org/0000-0001-6973-3825'
+  github: 'https://github.com/lys7aves'
+  linkedin: 'https://www.linkedin.com/in/%EC%9C%A0%EC%84%AD-%EC%9D%B4-135156228/'
+#  segmentfault: 'https://segmentfault.com/u/wuwozhonger'
+
+# 뭘까...?
+# Links 友情链接
+#links:
+#  'Mr Li': 'https://lisz.me'
+
+# 뭘까...?
+# Beian 备案号
+#beian: '沪ICP备xxxxxxxx号'
+
+# CC License
+cclicense: true
+
+# 뭘까...? 중국 사이트 같은데...
+# CNZZ Analytics
+# cnzz: 1234567891
+#cnzz: 
+
+# 뭘까...?
+# Google Analytics
+# google_analytics: UA-XXXXXXXXX-X
+google_analytics: 
+
+# Tags
+recommend-tags: true # whether or not display recommend-tags on the sidebar
+recommend-condition-size: 12 # a tag will be recommended if the size of it is more than this value
+
+# Build settings
+paginate: 10
+paginate_path: 'blog/page:num'
+exclude: ['node_modules', 'dev', 'package.json', 'gulpfile.js', '.gitignore', 'README.md', '*.gemspec', '*.gem']
+
+# Markdown
+markdown: kramdown
+highlighter: rouge
+kramdown:
+  input: GFM
+
+# RSS
+RSS: true
+
+# Permalink
+# See: https://github.com/kaeyleo/jekyll-theme-H2O/issues/35
+permalink: /:categories/:title.html
+
+# TOC
+toc: true
+
+# Plugins
+plugins: [jekyll-paginate, jekyll-feed, jekyll-sitemap]
