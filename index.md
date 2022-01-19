@@ -12,11 +12,11 @@ description: 유섭인 못말려
 
 Email: lys7aves@gmail.com
 
-GitHub: https://github.com/lys7aves
+GitHub: [https://github.com/lys7aves](https://github.com/lys7aves)
 
-Web: https://lys7aves.github.io/
+Web: [https://lys7aves.github.io/](https://lys7aves.github.io/)
 
-Linkedin: https://www.linkedin.com/in/lys7aves/
+Linkedin: [https://www.linkedin.com/in/lys7aves/](https://www.linkedin.com/in/lys7aves/)
 
 
 
@@ -52,7 +52,7 @@ Etc: Notion(3)	Slack(3)	**Git(2)**	Docker(1)
 
 ## Software Maestro & Dress YourSelf
 
-https://github.com/lys7aves/DYS
+[https://github.com/lys7aves/DYS](https://github.com/lys7aves/DYS)
 
 **인공지능 개발자**
 
@@ -81,7 +81,7 @@ https://github.com/lys7aves/DYS
 
 ## 오셀로 AI
 
-https://github.com/lys7aves/othello
+[https://github.com/lys7aves/othello](https://github.com/lys7aves/othello)
 
 2017
 
