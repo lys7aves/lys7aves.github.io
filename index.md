@@ -50,28 +50,39 @@ Etc: Notion(3)	Slack(3)	**Git(2)**	Docker(1)
 
 
 
-## Software Maestro & Dress YourSelf
+## Software Maestro
 
-[https://github.com/lys7aves/DYS](https://github.com/lys7aves/DYS)
+[https://www.swmaestro.org/sw/bbs/B0000006/view.do?nttId=24889&menuNo=200015&pageIndex=1](https://www.swmaestro.org/sw/bbs/B0000006/view.do?nttId=24889&menuNo=200015&pageIndex=1)
 
-**인공지능 개발자**
+**안드로이드 앱 개발자, 인공지능 개발자**
 
 2021.04 ~ 2021.11
 
-- Software Maestro 12기 연수생
-
+- 12기 연수생
 - 인공지능 패션 어플리케이션 제작
+
+
+
+## Dress YourSelf
+
+**인공지능 개발자**
+
+- 사용자가 보유한 의류를 기반으로 맞춤형 코디 서비스를 제공하는 어플리케이션 제작
 
 - **YOLO** 를 이용하여 사용자가 올린 사진에서 상/하의 추출
 - **색에 대한 느낌을 판단**하는 인공지능을 제작
 
 
 
-## 나홀Law
+## 고려대학교 자기주도창의설계 프로그램
 
 **인공지능 개발자**
 
 2020 ~ 2021
+
+### 나홀Law
+
+- 빅데이터를 활용한 사례 기반 질의응답 및 판례 추론 시스템 내 인공지능 개발
 
 - 딥러닝을 이용한 자연어 처리 스터디 진행
 - **LSTM**을 이용하여 판례 분류 인공지능 제작
@@ -81,7 +92,7 @@ Etc: Notion(3)	Slack(3)	**Git(2)**	Docker(1)
 
 ## 오셀로 AI
 
-[https://github.com/lys7aves/othello](https://github.com/lys7aves/othello)
+https://github.com/lys7aves/othello
 
 2017
 
