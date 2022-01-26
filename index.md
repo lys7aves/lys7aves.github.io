@@ -12,11 +12,12 @@ description: 유섭인 못말려
 
 Email: lys7aves@gmail.com
 
-GitHub: [https://github.com/lys7aves](https://github.com/lys7aves)
+GitHub: https://github.com/lys7aves
 
-Web: [https://lys7aves.github.io/](https://lys7aves.github.io/)
+Web: https://lys7aves.github.io/
 
-Linkedin: [https://www.linkedin.com/in/lys7aves/](https://www.linkedin.com/in/lys7aves/)
+Linkedin: https://www.linkedin.com/in/lys7aves/
+
 
 
 
@@ -32,21 +33,22 @@ Linkedin: [https://www.linkedin.com/in/lys7aves/](https://www.linkedin.com/in/ly
 
 
 
+
 # Skills
 
- ⓘ 3: 사용에 능숙/소규모 프로젝트 가능	2: 기본적인 사용/때때로 검색 필요	1: 제한적인 사용/듀토리얼 수준 경험
+언어:	**C/C++**	**Python**	Java
 
-Frontend: Android Studio(2)
+백엔드:	Django
 
-Backend: **C/C++(3)**	**Python(2)**	**Django(2)**	Java(2)	MySQL(1)	
+ML:	**Tensorflow**	Pytorch
 
-ML: **Tensorflow(2)**	Pytorch(1)
+기타:	Notion	Slack	**Git**
 
-Etc: Notion(3)	Slack(3)	**Git(2)**	Docker(1)
 
 
 
 # Project & Experience
+
 
 
 
@@ -65,7 +67,9 @@ Etc: Notion(3)	Slack(3)	**Git(2)**	Docker(1)
 
 ## Dress YourSelf
 
-**인공지능 개발자**
+~~https://github.com/lys7aves/DYS~~
+
+**AI 개발**
 
 - 사용자가 보유한 의류를 기반으로 맞춤형 코디 서비스를 제공하는 어플리케이션 제작
 
@@ -74,7 +78,10 @@ Etc: Notion(3)	Slack(3)	**Git(2)**	Docker(1)
 
 
 
+
 ## 고려대학교 자기주도창의설계 프로그램
+
+https://github.com/lys7aves/LawAkinator
 
 **인공지능 개발자**
 
@@ -90,6 +97,7 @@ Etc: Notion(3)	Slack(3)	**Git(2)**	Docker(1)
 
 
 
+
 ## 오셀로 AI
 
 https://github.com/lys7aves/othello
@@ -102,25 +110,28 @@ https://github.com/lys7aves/othello
 
 
 
+
 # Education
 
 - 고려대학교 **사이버국방학과** 전공, 융합보안학과 융합전공, 2018.03 ~ 2022.02 (예정)
 
 
 
+
 # Award
 
 - 대학생 프로그래밍 경시대회 (ACM-ICPC)
-  - 2021 ICPC Asia Seoul Regional **13th**
-                      (장려상)
+  - 2021 ICPC Asia Seoul Regional **13th (장려상/한국지능정보사회진흥원장상)**
   - 2020 ICPC Asia Seoul Regional **18th**
   - 2019 ICPC Asia Seoul Regional **29th** 
 - 고려대학교 프로그래밍 경시대회 (KCPC)
   - 2021 Div.1 **7th (우수상)**
   - 2018 Advanced Div **4th (우수상)** 
 - 전국 대학생 프로그래밍 경시대회 (UCPC)
-  - 2020 UCPC **16th**
-- 2020 ETRI 자율성장 인공지능 경진대회 **13th**
+  - 2021 UCPC 본선 **20th**
+  - 2020 UCPC 본선 **16th**
+- 2020 ETRI 자율성장 인공지능 경진대회
+  - Team rank: **7th** / Model rank: **13th**
 - 한국정보올림피아드 (KOI)
   - 고등부 전국대회 **은상** 3회 수상 (2015-2018)
   - 중등부 전국대회 **은상** 2회 수상 (2012, 2014)
