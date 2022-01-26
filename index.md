@@ -6,22 +6,19 @@ description: 유섭인 못말려
 
 
 
-# Profile
 
-**이유섭**
 
-Email: lys7aves@gmail.com
+# 프로필
 
-GitHub: https://github.com/lys7aves
-
-Web: https://lys7aves.github.io/
-
-Linkedin: https://www.linkedin.com/in/lys7aves/
+Email: [lys7aves@gmail.com](lys7aves@gmail.com)   
+GitHub: [https://github.com/lys7aves](https://github.com/lys7aves)   
+Web: [https://lys7aves.github.io/](https://lys7aves.github.io/)   
+Linkedin: [https://www.linkedin.com/in/lys7aves/](https://www.linkedin.com/in/lys7aves/)
 
 
 
 
-# About Me
+# 소개
 
  알고리즘과 C/C++ 12년, Python과 Java 4년, ML 2년차 개발자로 패션AI, 법AI 프로젝트 개발 경험이 있습니다.
 
@@ -34,15 +31,14 @@ Linkedin: https://www.linkedin.com/in/lys7aves/
 
 
 
-# Skills
+# 기술 스택
 
-언어:	**C/C++**	**Python**	Java
+언어:	**C/C++**	**Python**	Java   
+백엔드:	Django   
+ML:	**Tensorflow**	Pytorch   
+기타:	Notion	Slack	**Git**   
 
-백엔드:	Django
 
-ML:	**Tensorflow**	Pytorch
-
-기타:	Notion	Slack	**Git**
 
 
 
@@ -67,7 +63,7 @@ ML:	**Tensorflow**	Pytorch
 
 ## Dress YourSelf
 
-~~https://github.com/lys7aves/DYS~~
+[https://github.com/lys7aves/DYS](https://github.com/lys7aves/DYS)
 
 **AI 개발**
 
@@ -81,7 +77,7 @@ ML:	**Tensorflow**	Pytorch
 
 ## 고려대학교 자기주도창의설계 프로그램
 
-https://github.com/lys7aves/LawAkinator
+[https://github.com/lys7aves/LawAkinator](https://github.com/lys7aves/LawAkinator)
 
 **인공지능 개발자**
 
@@ -100,7 +96,7 @@ https://github.com/lys7aves/LawAkinator
 
 ## 오셀로 AI
 
-https://github.com/lys7aves/othello
+[https://github.com/lys7aves/othello](https://github.com/lys7aves/othello)
 
 2017
 
@@ -113,7 +109,7 @@ https://github.com/lys7aves/othello
 
 # Education
 
-- 고려대학교 **사이버국방학과** 전공, 융합보안학과 융합전공, 2018.03 ~ 2022.02 (예정)
+- 고려대학교 **사이버국방학과** 전공, 융합보안학과 융합전공, 2018.03 ~
 
 
 
