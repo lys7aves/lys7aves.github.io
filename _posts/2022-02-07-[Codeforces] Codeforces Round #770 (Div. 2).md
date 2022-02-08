@@ -3,7 +3,7 @@ layout: post
 title: '[Codeforces] Codeforces Round #770 (Div. 2)'
 date: 2022-02-07-20:05
 author: 이유섭
-cover: '\assets\img\2022-02-07-[Codeforces] Codeforces Round #770 (Div. 2)\result.PNG'
+cover: '/assets/img/2022-02-07-%5BCodeforces%5D%20Codeforces%20Round%20%23770%20(Div.%202)/result.PNG'
 tags: codeforces algorithm
 ---
 
