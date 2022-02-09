@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '[Codeforces] Codeforces Round #770 (Div. 2)'
+title: '[Codeforces] Codeforces Round #770 (Div. 2) - D'
 date: 2022-02-09-9:58
 author: 이유섭
 cover: '/assets/img/2022-02-08-Codeforces Round 770 (Div. 2) - D/status.png'
