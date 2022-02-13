@@ -3,7 +3,7 @@ layout: post
 title: '[Codeforces] Codeforces Global Round 19'
 date: 2022-02-13-12:39
 author: 이유섭
-cover: '/assets/img/2022-02-13-(Codeforces) Codeforces Global Round 19/solved'
+cover: '/assets/img/2022-02-13-(Codeforces) Codeforces Global Round 19/solved.png'
 tags: codeforces algorithm
 ---
 
