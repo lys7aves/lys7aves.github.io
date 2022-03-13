@@ -9,11 +9,11 @@ tags: codeforces algorithm
 
 
 
-_Last updated: 2022. 03. 11_
+_Last updated: 2022. 03. 13_
 
 
 
-# Codeforces Round #770 (Div. 2)
+# Educational Codeforces Round 124 (Rated for Div. 2)
 
 ![problems](assets\img\2022-03-11-(Codeforces) Educational Codeforces Round 124 (Rated for Div. 2)\problems.png)
 
